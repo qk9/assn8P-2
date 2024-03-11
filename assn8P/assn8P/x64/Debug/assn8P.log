@@ -1,0 +1,3 @@
+﻿  main.cpp
+C:\Users\srjclabuser\source\repos\assn8P\assn8P\main.cpp(77,10): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  assn8P.vcxproj -> C:\Users\srjclabuser\source\repos\assn8P\x64\Debug\assn8P.exe
